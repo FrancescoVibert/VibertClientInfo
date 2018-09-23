@@ -7,11 +7,9 @@ Example os use:
 ...
 
 $ClientInfo = new VibertClientInfo();
-$Array = $ClientInfo->getClientInfo();
+$AssociativeArray = json_decode($ClientInfo->getClientInfo(), true);
 
-echo "<pre>";
-echo $Array;
-echo "</pre>";
+var_dump($AssociativeArray);
 
 ...
 ```
