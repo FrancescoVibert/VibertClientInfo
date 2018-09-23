@@ -1,8 +1,8 @@
-/*
- *	Copyright (c) 2018 Francesco Vibert and the VibertClientInfo project authors.
- */
-
 <?php
+
+	/********************************************
+ 	 *   Copyright (c) 2018 Francesco Vibert.   *
+ 	 ********************************************/
 
 	class VibertClientInfo
 	{
