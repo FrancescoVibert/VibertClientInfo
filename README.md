@@ -1,5 +1,5 @@
 # VibertClientInfo
-VibertClientInfo return the User Agent information in JSON format.
+VibertClientInfo returns all information contained in User Agent in JSON format.
 
 Example os use:
 
