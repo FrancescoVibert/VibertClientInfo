@@ -175,7 +175,8 @@
 					   "UserAgent"           => $this->getUserAgent(),
 					   "LinguaPiuNazione"    => $this->getLinguaPiuNazione()];
 
-			$retVal = json_encode($retVal, JSON_PRETTY_PRINT);
+			//$retVal = json_encode($retVal, JSON_PRETTY_PRINT);
+			$retVal = json_encode($retVal);
 
 			return $retVal;
 		}
