@@ -1,3 +1,7 @@
+/*
+ *	Copyright (c) 2018 Francesco Vibert and the VibertClientInfo project authors.
+ */
+
 <?php
 
 	class VibertClientInfo
