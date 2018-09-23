@@ -4,8 +4,6 @@ Vibert Client Info returns all information contained in User Agent in JSON forma
 Example of use:
 
 ```php
-...
-
 $ClientInfo = new VibertClientInfo();
 $AssociativeArray = json_decode($ClientInfo->getClientInfo(), true);
 
@@ -30,6 +28,4 @@ echo $AssociativeArray["PiattaformaSO"]       . "<br>";
 echo $AssociativeArray["FamigliaSO"]          . "<br>";
 echo $AssociativeArray["UserAgent"]           . "<br>";
 echo $AssociativeArray["LinguaPiuNazione"]    . "<br>";
-
-...
 ```
