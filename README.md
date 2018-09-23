@@ -1,5 +1,5 @@
-# VibertClientInfo
-VibertClientInfo returns all information contained in User Agent in JSON format.
+# Vibert Client Info
+Vibert Client Info returns all information contained in User Agent in JSON format.
 
 Example of use:
 
