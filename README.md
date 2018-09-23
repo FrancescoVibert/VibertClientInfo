@@ -1,7 +1,7 @@
 # VibertClientInfo
 VibertClientInfo returns all information contained in User Agent in JSON format.
 
-Example os use:
+Example of use:
 
 ```php
 ...
